@@ -1,0 +1,8 @@
+{
+	"name": "twitter-dump",
+	"description": "Dump a twitter stream into JSON",
+	"version": "0.1.0",
+	"dependencies": {
+		"optimist": "0.3.1"
+	}
+}
